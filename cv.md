@@ -30,3 +30,6 @@ At the moment I work as a marketer in a hydraulic equipment manufacturing compan
   + HTML Academy
   + Codeacademy
 
+## Languages 
+
+B1 (I have some speaking practice, but not with native speakers)
