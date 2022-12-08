@@ -7,5 +7,26 @@ At the moment I work as a marketer in a hydraulic equipment manufacturing compan
 ## Contacts
 
 **Phone:** +7(950)176-26-91
+
 **E-mail:** yuriknikolaev-d-ace@yandex.ru
+
 **Github:** yuriknikolaev-d-ace
+
+## Skils
+
+* HTML
+* CSS
+* JavaScripe basics
+* Photoshop
+* Illustrator
+* Git
+
+## Code Example
+
+## Education
+
+1. Udmurt state Universyty, Information systems
+2. Courses:
+  + HTML Academy
+  + Codeacademy
+
